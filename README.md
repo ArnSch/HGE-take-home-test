@@ -21,9 +21,9 @@ Right now, because data is inconsistently stored in multiple unconnected tools, 
 \* the data is fake, and semi-random. You may see some odd patterns.
 
 ### Data (and Tools) Description
-The school uses **a CRM** (Customer Relationship Management) product to manage its relationship and communications with parents of enrolled students, and an **ERP** (Enterprise Resource Planning) tool to manage its teachers (including pay, assigned classes, and schedules). 
+The school uses **a CRM** (*Customer Relationship Management*) product to manage its relationship and communications with parents of enrolled students, and an **ERP** (*Enterprise Resource Planning*) tool to manage its teachers (including pay, assigned classes, and schedules). 
 
-Individual teachers are tasked with keeping track of their class lists and student grades. They decided to use simple **spreadsheets** to manage both, which they keep updated manually.
+**Individual teachers are tasked with keeping track of their class lists and student grades**. They've decided to use simple **spreadsheets** to manage both, which they keep updated manually.
 
 `parents.csv`  is the export of the CRM. The data here is carefully inputted and checked by parents when they enroll, and as a result it is mostly free of errors or typos. In the `notes` column of this sheet, though, you will find a manually entered list of names. These are the names of enrolled children. If multiple parents in a family are on record, only one of them will have data in this field. The school uses the data in this field to decide who to contact about emergencies, events, and general news.
 
