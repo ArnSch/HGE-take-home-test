@@ -16,9 +16,10 @@ In the `data` folder of this repository, you will find a number of `.csv` files.
 
 Right now, because data is inconsistently stored in multiple unconnected tools, a number of tasks (listed below) are exceedingly complicated, and require hours of manual effort.
 
-**Your goal is to make the life of all involved better.** This can mean writing scripts to deal with the data as it exists, or building better tools for the input, management, and display of future data.
-
 \* the data is fake, and semi-random. You may see some odd patterns.
+
+### Your Goal
+**Your goal is to make the life of all involved better.** This can mean writing scripts to deal with the data as it exists, or building better tools for the input, management, and display of future data.
 
 ### Data (and Tools) Description
 The school uses **a CRM** (*Customer Relationship Management*) product to manage its relationship and communications with parents of enrolled students, and an **ERP** (*Enterprise Resource Planning*) tool to manage its teachers (including pay, assigned classes, and schedules). 
