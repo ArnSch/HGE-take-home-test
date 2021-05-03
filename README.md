@@ -3,7 +3,7 @@ Congratulations on making it to this stage of the interview process with Higher 
 
 As you will see in the Project Description section, this take-home project is very open-ended. This is purposeful. You should approach it as a way to showcase both what you value in a codebase, and what you prioritize when solving messy, real world problems. You will have received some personalised notes via email on our expectations, but you should feel free to exceed or ignore them.
 
-You should spend at most around one day's work on this project. **It is not required for you to hand back something fully implemented or perfect**, though we do expect you to have spent time thinking through the problem, and for any code you send us to be clean. We’d ideally like to be able to easily run your submission. 
+You should spend around one day's work on this project. **It is not required for you to hand back something fully implemented or perfect**, though we do expect you to have spent time thinking through the problem, and for any code you send us to be clean. We’d ideally like to be able to easily run your submission. 
 
 In a follow up interview, we’ll spend some time discussing the goals you had, the decisions you made along the way, and the difficulties you encountered (if any!). If time allows, we may extend your project as part of a pairing exercise.
 
@@ -49,3 +49,7 @@ Several times a day, each teacher has to ask themselves the following questions:
 * Which students in my next class are struggling?
 * What is my next class?
 * Which students missed one (or multiple) tests?
+
+
+# Your submission
+When you're ready, please 
