@@ -35,9 +35,9 @@ The `classes` and `grades` folders (and subdirectories) are all the spreadsheets
 ### School Tasks
 At the start of the school year, and at several points throughout the school year, the following questions need to be answered:
 * Are all the students assigned to classes?
-* Are any teachers under-used? Are any over-used?
+* Are any teachers under-booked? Are any over-booked?
 * Are any students double booked?
-* Are we missing any contact information for any student?
+* Are we missing any contact information for any students?
 
 Every week, the following lists need to be available:
 * All students who have an average grade of D or below
@@ -50,7 +50,10 @@ Several times a day, each teacher has to ask themselves the following questions:
 * Which students in my next class are struggling?
 * What is my next class?
 * Which students missed one (or multiple) tests?
-
+* Is it the birthday of any student in my next class?
+* What are the contact details of the parents of the students who are struggling?
 
 # Your submission
-When you're ready, please 
+When you're ready, please email aschenk@tohigherground.com with your solution. Feel free to send it over as a zip, or as a **private** GitHub repo.
+
+
